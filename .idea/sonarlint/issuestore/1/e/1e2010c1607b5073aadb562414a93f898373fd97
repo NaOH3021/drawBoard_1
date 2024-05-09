@@ -1,0 +1,19 @@
+
+ã
+java:S6539$"ŸSplit this â€œMonster Classâ€ into smaller and more specialized ones to reduce its dependencies on other classes from 26 to the maximum authorized 20 or less.(½Óæş8÷¬ˆÛõ1J$4f2d8122-1f07-4792-870c-c761ebf1bd54
+
+java:S2095•"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(ıå£†8—å†ßõ1J$448b46ca-d16f-43b3-83b0-b78f99fc4514
+m	java:S1062"+Replace this use of System.out by a logger.(•ÌÇÃ8«­ˆÛõ1J$2ef68f63-7477-4e94-8de4-23f2b9f893cb
+ƒ	java:S1253"<This block of commented-out lines of code should be removed.(ÖÅõıøÿÿÿÿ8ÓÆ»Şõ1J$d71941c2-ef3d-4841-acae-8089dee6d721
+„	java:S125"<This block of commented-out lines of code should be removed.(Ó²¹Ğûÿÿÿÿ8¶Å…ßõ1J$ed8185d0-d9c8-42ad-a94e-1e9e0f8b5da5
+s	java:S106°"+Replace this use of System.out by a logger.(£öÅ¦ıÿÿÿÿ8¡å†ßõ1J$92d320cd-d1ad-4500-8378-114dda110011
+„	java:S125´"<This block of commented-out lines of code should be removed.(°ñ·±şÿÿÿÿ8¢å†ßõ1J$7b036223-fdb7-410b-a351-b5b6ea5a9a1c
+	java:S125¹"<This block of commented-out lines of code should be removed.(÷”´8¢å†ßõ1J$ee56b8a9-181b-4070-8688-2040245d20ab
+x
+java:S1128"6Remove this unused import 'javafx.animation.KeyFrame'.(æ™†v8ÀÅ…ßõ1J$c2e9824c-3e13-4fe3-8172-24c67ea81f3f
+~
+java:S1128"6Remove this unused import 'javafx.animation.Timeline'.(˜‰ë÷øÿÿÿÿ8ÀÅ…ßõ1J$61e33ab6-1773-4f39-9f7f-cb7da067b8d3
+t
+java:S1128"1Remove this unused import 'javafx.util.Duration'.(ç½®§8ÀÅ…ßõ1J$83174746-609d-44d0-a27b-2832b4272fa8
+v
+java:S1144Î"3Remove this unused private "startListening" method.(æ‹­|8§å†ßõ1J$fd084031-03e4-4b22-bed1-4e549e2d5823
